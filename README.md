@@ -62,3 +62,13 @@ The repository contains supporting screenshots and documentation demonstrating t
 - **Project Overview** - recruiter-friendly summary
 - **Portfolio Case Study** - detailed project documentation and evidence
 
+## Portfolio Evidence
+
+- [Portfolio Case Study](Corporate%20IT%20Service%20Desk%20-%20Portfolio%20Case%20Study.pdf)
+- [Project Overview](Corporate%20IT%20Service%20Desk%20-%20Project%20Overview.pdf)
+- [Automation Validation](DEMO-26%20automation.png)
+- [Employee Onboarding](DEMO20-onboarding.png)
+- [Dashboard](Dashboard%20top.png)
+- [Wi-Fi Incident](DEMO7-wifi-resolved.png)
+- [SLA Performance](sla-success-rate-30-days.png)
+
